@@ -10,7 +10,7 @@ const Banner = () => {
         <div className="banner-txt">
           {/* Primary heading with targeted keywords */}
           <h1>
-            We Designss <span style={{ color: "red" }}>Strong Visual</span> and{' '}
+            We Design <span style={{ color: "red" }}>Strong Visual</span> and{' '}
             <ReactTyped
               strings={[
                 'Digital Products',

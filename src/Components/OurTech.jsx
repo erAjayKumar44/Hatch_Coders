@@ -6,7 +6,7 @@ const OurTech = () => {
     <>
       <div className="container">
         <div className="tut">
-          <h1>Our Tech Stack</h1>
+          <h1>Our Tech Stackss</h1>
           <p>The wise man therefore always holds in these matters to this principle of selection.</p>
         </div>
 
